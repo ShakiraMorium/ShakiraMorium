@@ -21,7 +21,7 @@
 <h3>Full-Stack Web Developer | Bangladesh 🇧🇩</h3>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Full-Stack+Web+Developer;React+%26+TypeScript+Developer;Python+%26+Django+Developer;Building+Modern+Web+Applications;Always+Learning+and+Growing"
+  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Passionate Full-Stack+Web+Developer;React+%26+Learning+TypeScript+Javascript+Enthusiast;Python+%26+Django+Enthusiasm;Building+Modern+Web+Applications;Always+Learning+and+Growing"
   alt="Typing SVG"
 />
 
