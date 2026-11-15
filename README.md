@@ -20,10 +20,14 @@
 
 <h3>Full-Stack Web Developer | Bangladesh 🇧🇩</h3>
 
-<img
-  src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=8B5CF6&center=true&vCenter=true&width=760&lines=Passionate Full-Stack+Web+Developer;React+%26+Learning+TypeScript+Javascript+Enthusiast;Python+%26+Django+Enthusiasm;Building+Modern+Web+Applications;Always+Learning+and+Growing"
-  alt="Typing SVG"
-/>
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img
+      src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=24&pause=1000&color=38C2FFF7&center=true&vCenter=true&width=750&lines=Passionate+Web+Developer;JavaScript+Enthusiast;Python+%26+Django+Enthusiast;Currently+Learning+TypeScript;React+%26+Node.js+Developer;Full-Stack+Web+Developer"
+      alt="Typing SVG"
+    />
+  </a>
+</p>
 
 <br/><br/>
 
