@@ -155,6 +155,7 @@ A movie-related web project built with modern frontend technologies.
 My portfolio project showcasing my development journey, skills, and projects.
 
 - Repository: [Shamima Shammi Portfolio](https://github.com/ShakiraMorium/shamima-shammi-portfolio)
+- Live Demo: [https://shamima-shammi-portfolio.vercel.app/]
 
 ---
 ## Key Features  
