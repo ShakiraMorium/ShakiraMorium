@@ -139,13 +139,18 @@ My portfolio project showcasing my development journey, skills, and projects.
 
 Interested in learning more about my background, skills, and experience?
 
-<div align="center">
+## 📄 My Resume
 
-<a href="./assets/Shakira-Morium-Shammi-Resume.pdf">
-  <img src="https://img.shields.io/badge/Download_My_Resume-PDF-8B5CF6?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
-</a>
+<p align="center">
+  <a href="https://drive.google.com/file/d/1S3jEAi_eAZZh8EeoMTx42mOPn5flEI4U/view?usp=sharing" target="_blank">
+    <img src="https://img.shields.io/badge/Download_My_Resume-PDF-00C2FF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Download Resume"/>
+  </a>
+</p>
 
-</div>
+<p align="center">
+  <b>Interested in working together?</b><br/>
+  Check out my resume to explore my skills, projects, and development journey.
+</p>
 
 ---
 
